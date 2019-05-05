@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'YourFontName';
+    src: url('fonts/DISCO___-webfont-webfont.eot');
+    src: url('fonts/DISCO___-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/DISCO___-webfont-webfont.woff') format('woff'),
+         url('fonts/DISCO___-webfont-webfont.ttf') format('truetype'),
+         url('fonts/DISCO___-webfont-webfont.svg#YourFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
